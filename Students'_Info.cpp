@@ -355,6 +355,7 @@ main()
 	while(true)
 
 	{
+		cout<<"***Welcome To Students' Information Management System***\n";
 
 	cout<<"\nPress 1 to enter data"<<endl;
 
